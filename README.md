@@ -31,3 +31,18 @@ This project is geared toward reaching both employees and employers of all gende
 
 
 ## 3. Datasets
+1. https://www.kaggle.com/nicholasmarangi/job-patterns-for-minorities-and-women-usa?select=CountByNac4.csv
+   - **Job Patterns For Minorities And Women USA**
+   - Count of positions in the private sector based on location and industry '11-'18
+   - Counts employees for each very specific industry and places them into buckets based on their race, gender, etc.
+   - 268 columns
+   
+2. https://www.nltk.org/
+   - fairly simple and easy to use open source API to work with human language data
+   - possibly using TF-IDF
+   
+3. 
+
+
+ 
+
