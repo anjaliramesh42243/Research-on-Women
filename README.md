@@ -44,6 +44,7 @@ This project is geared toward reaching both employees and employers of all gende
    
 3. https://developers.facebook.com/docs/graph-api
    - Use Graph API to scrape comments from posts on Facebook, run sentiment analysis on comments from female or male posts
+   - Probably easier to do this with Twitter posts and comments
    - Is it possible to do this for LinkedIn?
    
 
