@@ -38,11 +38,14 @@ This project is geared toward reaching both employees and employers of all gende
    - 268 columns
    
 2. https://www.nltk.org/
+   - **Natural Language Toolkit**
    - fairly simple and easy to use open source API to work with human language data
    - possibly using TF-IDF
    
-3. 
-
+3. https://developers.facebook.com/docs/graph-api
+   - Use Graph API to scrape comments from posts on Facebook, run sentiment analysis on comments from female or male posts
+   - Is it possible to do this for LinkedIn?
+   
 
  
 
