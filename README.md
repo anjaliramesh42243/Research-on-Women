@@ -5,6 +5,7 @@ An exploration of female experiences in the workforce :fireworks:
 1. Introduction
 
 2. Problem Statement: Data Science Scope
+    - Key User Stories
  
 3. Data
 
@@ -29,6 +30,13 @@ This project is aiming to explore and analyze the experiences of women in the wo
 ## 2. Problem Statement: Data Science Scope
 This project is geared toward reaching both employees and employers of all genders, in order to raise awareness of deficits in certain areas and specify the areas in which females are underrepresented, discriminated, or have difficulty succeeding in. This will not only be a benefit to the current female workforce, but also for the incoming generation of female employees and employers to be able to understand their position in the workforce. 
 
+  - **Key User Stories**: Specifically, this project will be of use to a plethora of users, some of which being
+    - Job recruiters who are looking for recurring hiring patterns when it comes to gender discrimination or what the process generally looks like for women who are entering the workforce, which industries or locations to focus their efforts
+    - Women who are entering the workforce looking for the distribution of male versus female employees in their states/counties, which industries they would be the most likely to suceed in, how likely they are to suceed in management positions
+    - Political informants who want to understand federal or state policies are affecting gender disparities in certain industries or locations, whether that is through wage gaps, discrimination, etc.
+    - HR departments that are looking to understand the average gender distributions in their industry to use when considering promotions, benefits
+    - Curriculum developers in high school who want to know which industries are lacking in female representation in order to provide specialized classes, such as in STEM
+
 
 ## 3. Datasets
 1. https://www.kaggle.com/nicholasmarangi/job-patterns-for-minorities-and-women-usa?select=CountByNac4.csv
@@ -36,6 +44,9 @@ This project is geared toward reaching both employees and employers of all gende
    - Count of positions in the private sector based on location and industry '11-'18
    - Counts employees for each very specific industry and places them into buckets based on their race, gender, etc.
    - 268 columns
+   
+2. https://www.oecd.org/gender/data/
+   - **OECD Gender Data Portal**
    
 2. https://www.nltk.org/
    - **Natural Language Toolkit**
