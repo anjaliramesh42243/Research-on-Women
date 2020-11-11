@@ -66,5 +66,30 @@ For later use
    - Is it possible to do this for LinkedIn?
    
 
+## 4. Analytic Methodologies
+**State Information**
+- Total number of females in each industry (all positions) per state
+- Total number of males in each industry (all positions) per state
+  - Compare distribution of females vs. males
+- Race distribution of females vs. males for each state (all positions)
+
+**Industry Information**
+- Total number of females in each industry (all states)
+- Total number of females in each industry (all states)
+  - Compare distribution of females vs. males
+- Race distribution of females in each industry (all states)
+
+**Position Information**
+- Total number of females in each position for most common industries (all states)
+- Total number of males in each position for most common industries (all states)
+  - Compare distribution of males and females
+
+Race Information
+“”
+
+Trend lines of female participation in workforce from 2011 - 2018
+Should the other categories be separated by year for the totals
+
+
  
 
