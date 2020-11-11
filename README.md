@@ -45,15 +45,21 @@ This project is geared toward reaching users of all genders that are looking for
    - Counts employees for each very specific industry and places them into buckets based on their race, gender, etc.
    - 268 columns
    
-2. https://www.oecd.org/gender/data/
+2. https://www.kaggle.com/jonavery/incomes-by-career-and-gender
+   - **U.S. Incomes by Occupation and Gender**
+   - Analyze gender gap and differences in industry's incomes
+   
+3. https://www.oecd.org/gender/data/
    - **OECD Gender Data Portal**
    
-2. https://www.nltk.org/
+
+For later use
+4. https://www.nltk.org/
    - **Natural Language Toolkit**
    - fairly simple and easy to use open source API to work with human language data
    - possibly using TF-IDF
    
-3. https://developers.facebook.com/docs/graph-api
+5. https://developers.facebook.com/docs/graph-api
    - Use Graph API to scrape comments from posts on Facebook, run sentiment analysis on comments from female or male posts
    - Probably easier to do this with Twitter posts and comments
    - Is it possible to do this for LinkedIn?
